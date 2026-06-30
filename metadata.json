@@ -1,0 +1,6 @@
+{
+  "name": "Qrix",
+  "description": "Instant QR Code Platform without login or signup",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
